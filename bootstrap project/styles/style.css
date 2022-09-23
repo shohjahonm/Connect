@@ -1,0 +1,119 @@
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+/* Text colors */
+.text-dark-custom {
+    color: #3a3a47!important;
+    }
+.text-grey-custom {
+    color: #5c5c5c!important;
+    }
+.text-light-grey-custom {
+    color: #818198!important;
+    }
+.text-dark-blue-custom {
+    color: #383B61!important;
+    }
+.text-blue-custom {
+    color: #3498db!important;
+    }
+.text-green-custom {
+    color: #21bf73!important;
+    }
+    
+    /* Background colors */  
+.bg-primary-custom {
+    background-color: #f0f5f9!important;
+    }
+
+    /* font */
+    h1, h2, h3, h4, h5, h6,
+p {
+font-family: 'Montserrat';
+}
+
+/* navigation menu */
+.navbar-brand{
+    font-weight: 500;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+/* home section */
+.home{
+    padding: 150px 0 100px 0;
+}
+
+/* about */
+
+.about__card-1 {
+    background-color: #fff2e5;
+}
+
+.about__card-2 {
+    background-color: #f8f9fa;
+}
+
+.about__card-3 {
+    background-color: #f0f5f9;
+}
+
+.about__card-image {
+    width: 80px;
+}
+
+
+/* features */
+
+.features__container {
+    background-color: #F0F5F9;;
+}
+
+
+/* results */
+
+.results__card-image {
+    width: 80px;
+}
+
+/* reviews */
+
+
+.reviews__container {
+    background-color: #F0F5F9;
+    padding: 100px 50px;
+}
+
+/* pricing */
+
+.pricing__card {
+    background-color: #F0F5F9;
+}
+
+/* FAQ */
+.faq__container {
+    background-color: #F0F5F9;
+    padding: 100px 50px;
+}
+
+/* footer */
+
+.icons{
+    width: 25px;
+    height: 25px;
+}
